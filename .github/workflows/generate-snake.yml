@@ -1,0 +1,41 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Executa a cada dia à meia-noite
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Baixa o repositório
+      - name: Clone the repo
+        uses: actions/checkout@v2
+
+      # Configura Python para rodar o script
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      # Instala os requisitos do Snake
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # Gera o SVG da cobra
+      - name: Generate Snake
+        run: |
+          python3 snake.py
+
+      # Faz o commit do SVG gerado
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Generated Snake animation"
+          git push
