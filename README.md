@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRlNG0&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GRlNG0&show_icons=true&theme=dark&cache_seconds=43200" alt="GitHub Stats" />
 </div>
 
 ---
