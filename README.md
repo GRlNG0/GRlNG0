@@ -22,7 +22,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GRlNG0&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRlNG0&layout=compact&theme=dark" alt="Most Used Languages" />
 </div>
 
 ---
