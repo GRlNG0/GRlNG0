@@ -57,10 +57,12 @@
 <div align="center">
 </div>
 
+### 🐍 Cobra comendo meus contribs
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GRING0/GRING0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GRING0/GRING0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GRING0/GRING0/output/github-snake.svg" />
 </picture>
 
 ###
