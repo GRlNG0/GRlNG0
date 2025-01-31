@@ -1,24 +1,28 @@
 <br clear="both">
 
-<div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D4E16AQGwpLKj8aQ2Vg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733938070545?e=1739404800&v=beta&t=f_C63vJPnVWwGYu8tn0BrZ_6a48cG5NF84oziy419j4"  />
-</div>
 
-###
+
+### Dev. Front-End | Freelancer
 
 <br clear="both">
 
-<p align="left">Sou um desenvolvedor Full-Stack Junior, gosto de criar projetos do zero, sempre buscando criar códigos limpos e eficientes. Embora design não seja minha principal habilidade, me empenho a estudar documentações e aprender o máximo possível sobre as tecnologias que uso para aprimorar minhas habilidades. Estou sempre buscando novos desafios e maneiras de evoluir como desenvolvedor. 🚀</p>
+<p align="left">Sou um desenvolvedor Front-End especializado em criar projetos do zero e construir interfaces limpas e eficientes. Estou sempre buscando aprender e evoluir minhas habilidades, com foco em linguagens como HTML, CSS e JavaScript. 🚀</p>
 
 ###
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiogessercc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiogessercc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GRlNG0&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRlNG0&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
 </div>
 
 ###
-
 <br clear="both">
 
 <div align="center">
@@ -42,7 +46,7 @@
 
 <div align="center">
    <a href="https://discord.com/users/994208977468538890" target="_blank">
-    <img src="(https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40" alt="codepen logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40" alt="Discord"  />
   </a>
 </div>
 
