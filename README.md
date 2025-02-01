@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 <p align="center">
-  I am a Front-End developer specializing in creating clean and efficient interfaces from scratch. I’m always eager to learn and improve, with a strong focus on technologies like:
+  I'm a 17-year-old Front-End developer from Italy, specializing in crafting clean and efficient interfaces from scratch. I have a strong passion for continuous learning and improving my skills, with a strong focus on programming languages like:
 </p>
 
 <div align="center">
